@@ -24,8 +24,7 @@
 
 <p align="center">
   <a href="#contributing">Contributing</a> •
-  <a href="#join-us-in-discussions">Discussion</a> •
-  <a href="#maintainers">Maintainers</a>
+  <a href="#join-us-in-discussions">Discussion</a>
 </p>
 
 ## Contributing
@@ -49,12 +48,6 @@ If you want to contribute to this project, please read the [CONTRIBUTING.md](CON
 ## Join us in discussions
 
 We use GitHub Discussions to talk about all sorts of topics related to documentation and this project. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions][11].
-
-## Maintainers
-
-This project is maintained by the following team members:
-
-- [@harshraj8843](https://github.com/harshraj8843)
 
 ---
 
