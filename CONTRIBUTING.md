@@ -81,8 +81,8 @@ Once your PR is merged, your contributions will be publicly visible on the [twit
 [5]: https://docs.github.com/en/get-started/quickstart/set-up-git (Set up Git)
 [6]: https://docs.github.com/en/get-started/quickstart/github-flow (GitHub flow)
 [7]: https://docs.github.com/en/get-started/quickstart/collaborating-with-issues-and-pull-requests (Collaborating with pull requests)
-[9]: https://github.com/x4ty/year-progress-2/issues "Issues"
-[10]: https://github.com/x4ty/year-progress-2/issues/new/choose "Issue Template"
+[9]: https://github.com/codinasion/year-progress-2/issues "Issues"
+[10]: https://github.com/codinasion/year-progress-2/issues/new/choose "Issue Template"
 [11]: https://github.com/search?q=is:open+user:codinasion&type=Issues "codinasion Open Issues"
 [12]: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue "Link PR to Issue"
 [13]: ttps://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork "Allow maintainers to edit"

@@ -57,12 +57,12 @@ Made with 💖 by Codinasion
 
 ---
 
-[1]: https://img.shields.io/github/license/x4ty/year-progress-2
-[2]: https://github.com/x4ty/year-progress-2/blob/master/LICENSE.md "License"
-[3]: https://img.shields.io/github/repo-size/x4ty/year-progress-2 "Repo Size"
-[4]: https://github.com/x4ty/year-progress-2
-[5]: https://img.shields.io/github/contributors/x4ty/year-progress-2 "Contributors"
-[6]: https://github.com/x4ty/year-progress-2/graphs/contributors
-[7]: https://img.shields.io/github/last-commit/x4ty/year-progress-2 "Last Commit"
-[8]: https://github.com/x4ty/year-progress-2/graphs/commit-activity
+[1]: https://img.shields.io/github/license/codinasion/year-progress-2
+[2]: https://github.com/codinasion/year-progress-2/blob/master/LICENSE.md "License"
+[3]: https://img.shields.io/github/repo-size/codinasion/year-progress-2 "Repo Size"
+[4]: https://github.com/codinasion/year-progress-2
+[5]: https://img.shields.io/github/contributors/codinasion/year-progress-2 "Contributors"
+[6]: https://github.com/codinasion/year-progress-2/graphs/contributors
+[7]: https://img.shields.io/github/last-commit/codinasion/year-progress-2 "Last Commit"
+[8]: https://github.com/codinasion/year-progress-2/graphs/commit-activity
 [11]: https://github.com/orgs/codinasion/discussions "Discussions"
